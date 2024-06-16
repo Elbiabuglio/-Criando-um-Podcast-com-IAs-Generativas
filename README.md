@@ -51,7 +51,7 @@ Descubra o futuro do entretenimento com Podcasts gerados por Inteligência Artif
             <td align="center">
                 Código Mestre: Algoritmos para o Sucesso na Interface da Vida
             </td>
-            <td align="center">22/09/23</td>
+            <td align="center">16/06/24</td>
             <td align="center">
                 <img width="200" src=".github/001/cod_mestre.jpg" />     
             </td>
@@ -89,6 +89,4 @@ Descubra o futuro do entretenimento com Podcasts gerados por Inteligência Artif
 
 O projeto destacou a versatilidade das IAs Generativas na criação de conteúdo auditivo, abrindo novos caminhos para a produção de mídia digital.
 
-## Licença
 
-[MIT](https://choosealicense.com/licenses/mit/)
